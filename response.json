@@ -1,0 +1,14 @@
+{
+    "data": {
+        "id" : 0,
+        "nomeCompleto": "string",
+        "email": "string",
+        "cargo": "string",
+        "salario": 0.00,
+        "cpf": "string",
+        "senha": "string",
+        "situacao": true
+    },
+    "message": "string",
+    "status": true
+}

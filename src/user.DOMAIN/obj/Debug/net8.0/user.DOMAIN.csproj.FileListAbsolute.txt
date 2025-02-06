@@ -1,0 +1,12 @@
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.DOMAIN\bin\Debug\net8.0\user.DOMAIN.deps.json
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.DOMAIN\bin\Debug\net8.0\user.DOMAIN.dll
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.DOMAIN\bin\Debug\net8.0\user.DOMAIN.pdb
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.DOMAIN\obj\Debug\net8.0\user.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.DOMAIN\obj\Debug\net8.0\user.DOMAIN.AssemblyInfoInputs.cache
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.DOMAIN\obj\Debug\net8.0\user.DOMAIN.AssemblyInfo.cs
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.DOMAIN\obj\Debug\net8.0\user.DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.DOMAIN\obj\Debug\net8.0\user.DOMAIN.sourcelink.json
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.DOMAIN\obj\Debug\net8.0\user.DOMAIN.dll
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.DOMAIN\obj\Debug\net8.0\refint\user.DOMAIN.dll
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.DOMAIN\obj\Debug\net8.0\user.DOMAIN.pdb
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.DOMAIN\obj\Debug\net8.0\ref\user.DOMAIN.dll

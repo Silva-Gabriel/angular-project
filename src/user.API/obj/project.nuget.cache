@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VMsRdCRgyKo=",
+  "dgSpecHash": "5b6P8sSqfsc=",
   "success": true,
   "projectFilePath": "C:\\Users\\potte\\OneDrive\\Área de Trabalho\\Code\\C#\\angular-project\\src\\user.API\\user.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\potte\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\potte\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.12\\microsoft.aspnetcore.openapi.8.0.12.nupkg.sha512",
     "C:\\Users\\potte\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\potte\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",

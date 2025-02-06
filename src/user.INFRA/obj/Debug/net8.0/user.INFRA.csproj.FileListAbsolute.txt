@@ -1,0 +1,16 @@
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.INFRA\bin\Debug\net8.0\user.INFRA.deps.json
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.INFRA\bin\Debug\net8.0\user.INFRA.dll
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.INFRA\bin\Debug\net8.0\user.INFRA.pdb
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.INFRA\bin\Debug\net8.0\user.DOMAIN.dll
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.INFRA\bin\Debug\net8.0\user.DOMAIN.pdb
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.INFRA\obj\Debug\net8.0\user.INFRA.csproj.AssemblyReference.cache
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.INFRA\obj\Debug\net8.0\user.INFRA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.INFRA\obj\Debug\net8.0\user.INFRA.AssemblyInfoInputs.cache
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.INFRA\obj\Debug\net8.0\user.INFRA.AssemblyInfo.cs
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.INFRA\obj\Debug\net8.0\user.INFRA.csproj.CoreCompileInputs.cache
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.INFRA\obj\Debug\net8.0\user.INFRA.sourcelink.json
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.INFRA\obj\Debug\net8.0\user.INFRA.csproj.Up2Date
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.INFRA\obj\Debug\net8.0\user.INFRA.dll
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.INFRA\obj\Debug\net8.0\refint\user.INFRA.dll
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.INFRA\obj\Debug\net8.0\user.INFRA.pdb
+C:\Users\potte\OneDrive\Área de Trabalho\Code\C#\angular-project\src\user.INFRA\obj\Debug\net8.0\ref\user.INFRA.dll

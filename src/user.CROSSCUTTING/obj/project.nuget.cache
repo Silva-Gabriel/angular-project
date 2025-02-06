@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Jw05eWaqGdU=",
+  "dgSpecHash": "btbEzGR7Yg0=",
   "success": true,
   "projectFilePath": "C:\\Users\\potte\\OneDrive\\Área de Trabalho\\Code\\C#\\angular-project\\src\\user.CROSSCUTTING\\user.CROSSCUTTING.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\potte\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512"
+  ],
   "logs": []
 }
